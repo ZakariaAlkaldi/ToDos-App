@@ -1,0 +1,13 @@
+{
+  "dart.flutterSdkPath": "C:/flutter",
+  "dart.sdkPath": "C:/flutter/bin/cache/dart-sdk",
+  "dart.analysisExcludedFolders": ["build", ".dart_tool"],
+  "dart.vmAdditionalArgs": [],
+  "dart.flutterAdditionalArgs": [],
+  "dart.hotReloadOnSave": "all",
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "dart.showTodos": true,
+  "dart.warnWhenEditingFilesOutsideOfWorkspace": true,
+  "cmake.sourceDirectory": "C:/Users/User/Desktop/Projects/Flutter_Projects/ToDoList/linux"
+}
