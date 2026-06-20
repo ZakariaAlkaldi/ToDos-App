@@ -48,9 +48,7 @@ A comprehensive Flutter application for managing tasks, appointments, notes, and
 
 ## Screenshots
 
-<h3>Screenshots</h3>
-
-<img src="assets/dashboard.jpg" alt="Dashboard Screen" width="700">
+<img src="assets/dashboard.jpg" alt="Dashboard Screen" width="200">
 
 <img src="assets/tasks.jpg" alt="Tasks Screen" width="700">
 
