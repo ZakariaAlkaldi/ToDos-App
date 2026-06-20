@@ -73,7 +73,7 @@ A comprehensive Flutter application for managing tasks, appointments, notes, and
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ZakariaAlkaldi/ToDos-App.git
    cd todolist
    ```
 
